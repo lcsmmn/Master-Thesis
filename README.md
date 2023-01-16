@@ -1,5 +1,5 @@
-# Tesis: Observacion y simulacion en campus Beauchef
+# Tesis: Observación y simulación en campus Beauchef
 
 - Santiago de Chile
-- Medicion de VOC con PTR-TOF-MS
+- Medicin de VOC con PTR-TOF-MS
 - Librerias importantes: Tidyverse, Lubridate, Openair
